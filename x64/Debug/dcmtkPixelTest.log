@@ -1,0 +1,5 @@
+﻿  dcmtkPixelTest.cpp
+E:\c++\dcmtkPixelTest\dcmtkPixelTest\dcmtkPixelTest.cpp(43,24): warning C4018: '<': signed/unsigned mismatch
+E:\c++\dcmtkPixelTest\dcmtkPixelTest\dcmtkPixelTest.cpp(46,26): warning C4018: '<': signed/unsigned mismatch
+E:\c++\dcmtkPixelTest\dcmtkPixelTest\dcmtkPixelTest.cpp(53,24): warning C4018: '<': signed/unsigned mismatch
+  dcmtkPixelTest.vcxproj -> E:\c++\dcmtkPixelTest\x64\Debug\dcmtkPixelTest.exe
